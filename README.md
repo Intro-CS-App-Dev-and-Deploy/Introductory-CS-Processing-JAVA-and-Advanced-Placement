@@ -45,6 +45,7 @@ These divisions are used to automatically size text, automatically develop aspec
 Using the key board to test button code, then incorporate it into a button (unison of rect() division, draw(), mouseX&Y, and mousePressed)
 - Identify Microsoft's OS requirement of clicking on the window before user interactions work with it and provide feedback to the user
 
+Introduce grouping and naming blocks of code into Subprograms for developer reference (using TAB in Processing-JAVA)
 
 ---
 
